@@ -1,0 +1,21 @@
+{
+  "name": "alot",
+  "version": "1.0.0",
+  "description": "My first gulp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "gulp"
+  ],
+  "author": "Faisal",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^3.2.1"
+  }
+}
